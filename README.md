@@ -20,3 +20,4 @@ Follow these Steps to Run Focus Pass;
 - Now press 3.
 - ![image](https://github.com/duafatimaa/Focus-Pass/assets/126259467/0090f880-8d3f-4738-83be-a90509875608)
 - Now Press "C" for W4tcher. Now just minimize it while working it will take screenshots.
+- ![image](https://github.com/duafatimaa/Focus-Pass/assets/126259467/bcf5496e-ea6b-4eb8-853b-b7986edb0c85)
